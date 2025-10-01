@@ -6,7 +6,7 @@ To effectively manage the event, the organizing committee is seeking a database-
 <br />
 
 
-h2>Project Guidelines</h2> 
+<h2>Project Guidelines</h2> 
 📊 View here:()
 
 <h2>Course Outcomes</h2>
@@ -35,7 +35,7 @@ h2>Project Guidelines</h2>
 - <b>ER Modeling Tools</b> (e.g., draw.io)  
 
 
-h2>Program Walk-through (Photos)</h2>
+<h2>Program Walk-through (Photos)</h2>
 
 <p align="center">
 ER Diagram Design: <br/>
