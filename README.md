@@ -6,8 +6,9 @@ To effectively manage the event, the organizing committee is seeking a database-
 <br />
 
 
-<h2>Project Guidelines</h2> 
-📊 View here:()
+<h2>Reports</h2> 
+📊 View project guidelines here:()
+📊 View final report here:()
 
 <h2>Course Outcomes</h2>
 
