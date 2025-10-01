@@ -5,6 +5,10 @@ CyberMACS is an Erasmus MUNDUS Joint Master's Degree (EMJM) programme in Applied
 To effectively manage the event, the organizing committee is seeking a database-driven system that will serve as the backbone for tracking registrations, paper submissions, session planning, speaker arrangements, sponsorships, and communications with stakeholders.
 <br />
 
+
+h2>Project Guidelines</h2> 
+📊 View here:()
+
 <h2>Course Outcomes</h2>
 
 - Understand relational database concepts and architecture.  
@@ -14,10 +18,36 @@ To effectively manage the event, the organizing committee is seeking a database-
 - Implement and query databases using a real DBMS (e.g.PostgreSQL).  
 <br />
 
+<h2>SQL Courses (DataCamp)</h2>
 
+1. Introduction to SQL 
+2. Intermediate SQL 
+3. Joining Data in SQL 
+4. Data Manipulation in SQL 
+5. Database Design
+6. Improving Query Performance in PostgreSQL
+7. Transactions & Error Handling in PostgreSQL
+<br />
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>SQL</b> (PostgreSQL / SQLite)  
 - <b>ER Modeling Tools</b> (e.g., draw.io)  
 
+
+h2>Program Walk-through (Photos)</h2>
+
+<p align="center">
+ER Diagram Design: <br/>
+<img src="https://i.imgur.com/Pop7zyc.png" height="80%" width="80%" alt="ER Diagram"/>
+<br />
+<br />
+Relational Schema Implementation: <br/>
+<img src="https://i.imgur.com/tydKqDe.png" height="80%" width="80%" alt="Relational Schema"/>
+<br />
+<br />
+Sample SQL Query Execution: <br/>
+<img src="https://i.imgur.com/hUDeaU3.png" height="80%" width="80%" alt="SQL Queries"/>
+<br />
+<br />
+</p>
