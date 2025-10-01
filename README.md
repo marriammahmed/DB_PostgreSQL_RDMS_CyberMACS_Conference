@@ -8,7 +8,8 @@ To effectively manage the event, the organizing committee is seeking a database-
 
 <h2>Reports</h2> 
 📊 View project guidelines here:(https://github.com/marriammahmed/DB_PostgreSQL_RDMS_CyberMACS_Conference/blob/main/Project_Overview_SuSe_25.pdf)
-📊 View final report here:()
+<br />
+📊 View final report here:(https://github.com/marriammahmed/DB_PostgreSQL_RDMS_CyberMACS_Conference/blob/main/CyberMacs%20Conference%20Management.docx)
 
 <h2>Course Outcomes</h2>
 
