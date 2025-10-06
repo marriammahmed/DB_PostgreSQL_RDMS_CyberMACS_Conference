@@ -11,14 +11,19 @@ To effectively manage the event, the organizing committee is seeking a database-
 <br />
 📊 View final report here:(https://github.com/marriammahmed/DB_PostgreSQL_RDMS_CyberMACS_Conference/blob/main/CyberMacs%20Conference%20Management.docx)
 
-<h2>Course Outcomes</h2>
+<h2>Course Outcomes & Skills</h2>
+This course emphasized the theory and practice of database system design, data modeling, and query optimization.  
+Through both academic and applied projects, the following key skills and competencies were developed:
 
-- Understand relational database concepts and architecture.  
-- Design Entity-Relationship (ER) diagrams and convert them into relational schemas.  
-- Write and optimize SQL queries (SELECT, JOIN, GROUP BY, etc.).  
-- Apply normalization techniques to improve database efficiency.  
-- Implement and query databases using a real DBMS (e.g.PostgreSQL).  
-<br />
+- <b>End-to-End Database Design:</b> Designed complex relational database systems using ER modeling and normalization to ensure scalability, consistency, and data integrity.  
+- <b>Advanced SQL Programming:</b> Authored and optimized SQL queries involving joins, subqueries, triggers, stored procedures, and transactions to support dynamic user operations.  
+- <b>Database Performance Optimization:</b> Applied indexing, query tuning, and schema refinement for faster retrieval and efficient storage management.  
+- <b>System Architecture Knowledge:</b> Understood how RDBMS manage concurrency, transactions, and recovery mechanisms in multi-user environments.  
+- <b>Real-World Application:</b> Implemented a fully functional RDBMS prototype for conference management integrating multiple data relationships and dependencies.  
+- <b>Analytical & Problem-Solving:</b> Translated business requirements into structured data models and optimized logical-physical design alignment.  
+
+💡 *This project demonstrates proficiency in SQL, data modeling, and analytical thinking—core skills for database administration, backend development, and data engineering roles.*
+<br /><br />
 
 <h2>SQL Courses (DataCamp)</h2>
 
